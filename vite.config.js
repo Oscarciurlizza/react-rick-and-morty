@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "https://github.com/Oscarciurlizza/react-rick-and-morty",
+  base: "https://Oscarciurlizza.github.io/react-rick-and-morty/",
   plugins: [react()]
 })
